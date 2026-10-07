@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+qa/
+.env*
+!.env.example
+*.log
+.DS_Store
+PRODUCT.md
+DESIGN.md
+CLAUDE.md
+components/vendor/README.md

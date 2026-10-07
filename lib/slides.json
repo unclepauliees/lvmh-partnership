@@ -1,0 +1,309 @@
+[
+  {
+    "id": "slide-01",
+    "index": "01",
+    "label": "Cover",
+    "heading": "Project Rhapsody for LVMH",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "A new setting for creation. A new environment for discovery."
+      },
+      {
+        "type": "paragraph",
+        "text": "A proposed partnership with Symphony Space."
+      }
+    ]
+  },
+  {
+    "id": "slide-02",
+    "index": "02",
+    "label": "Thesis",
+    "heading": "The next chapter of craft can be made in orbit.",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Orbit gives a Maison new conditions in which to create and test: an object filmed above Earth, a material studied in microgravity, a work with a documented flight history."
+      },
+      {
+        "type": "paragraph",
+        "text": "Project Rhapsody brings the creative brief to Symphony Space's proposed mission platform."
+      }
+    ]
+  },
+  {
+    "id": "slide-03",
+    "index": "03",
+    "label": "LVMH Relevance",
+    "heading": "LVMH already has a history beyond Earth.",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Ardbeg sent an experiment into orbit to investigate how its spirit interacted with oak. A Heuer stopwatch accompanied John Glenn on Friendship 7 in 1962."
+      },
+      {
+        "type": "paragraph",
+        "text": "We propose building on that history with creative and research projects across the portfolio. Each Maison would define its own brief."
+      }
+    ]
+  },
+  {
+    "id": "slide-04",
+    "index": "04",
+    "label": "Why Now",
+    "heading": "The strongest space partnerships contribute something real.",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Mumm developed a champagne bottle for spaceflight. Prada brought materials and design expertise to Axiom's spacesuit program. IFF's orbital rose experiment informed a fragrance ingredient used commercially."
+      },
+      {
+        "type": "paragraph",
+        "text": "Each partnership began with a specific purpose. LVMH's opportunity is to choose the creative work or research question first, then design the mission to support it."
+      }
+    ]
+  },
+  {
+    "id": "slide-05",
+    "index": "05",
+    "label": "Integrated Offer",
+    "heading": "One brief. Creative and technical teams at the same table.",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Each Maison defines the creative brief or research question and the standards the work must meet."
+      },
+      {
+        "type": "paragraph",
+        "text": "Rhapsody develops the concept and filming plan. Symphony assesses flight requirements and plans integration and operations. Together, the teams agree what can be delivered and how success will be measured."
+      },
+      {
+        "type": "paragraph",
+        "text": "Project Rhapsody is a Symphony Space program, not a separate space operator."
+      }
+    ]
+  },
+  {
+    "id": "slide-06",
+    "index": "06",
+    "label": "Symphony Platform",
+    "heading": "Use the platform. Do not build the spacecraft.",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Symphony is developing platforms that share power, thermal services and other spacecraft infrastructure across customer payloads. Adagio is designed to remain in orbit while robots exchange its payload modules."
+      },
+      {
+        "type": "paragraph",
+        "text": "The aim is to support successive Maison projects without building a new spacecraft for each one. Capabilities will depend on the selected platform and its stage of development."
+      }
+    ]
+  },
+  {
+    "id": "slide-07",
+    "index": "07",
+    "label": "Value Framework",
+    "heading": "One program. Four ways to create value.",
+    "blocks": [
+      {
+        "type": "list",
+        "items": [
+          "Creative assets: original films, stills and experiences made around a genuine mission.",
+          "Provenance: a documented history for a flown object, sample or work.",
+          "Product learning: a defined experiment with relevant controls and analysis.",
+          "Maison impact: client engagement and product interest that can be measured against a baseline."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Choose the relevant outcomes for each project and agree how to measure them."
+      }
+    ]
+  },
+  {
+    "id": "slide-08",
+    "index": "08",
+    "label": "Fashion, Leather Goods and Watches",
+    "heading": "Give an object a new chapter in its history.",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "For Louis Vuitton or TAG Heuer, a project could follow an object or component from the workshop to orbit, subject to flight qualification."
+      },
+      {
+        "type": "paragraph",
+        "text": "Film and photography would document its making, preparation and flight. Exhibitions and client experiences on Earth could bring that record to an audience."
+      }
+    ]
+  },
+  {
+    "id": "slide-09",
+    "index": "09",
+    "label": "Wines and Spirits",
+    "heading": "Make the next question as compelling as the next image.",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Building on Ardbeg's example, a Moet Hennessy project could test how a chosen ingredient or material behaves in microgravity and document the experiment as it develops."
+      },
+      {
+        "type": "paragraph",
+        "text": "Start with a research question and matched Earth controls. Then assess the containment, sensing, analysis and approvals the experiment requires."
+      }
+    ]
+  },
+  {
+    "id": "slide-10",
+    "index": "10",
+    "label": "Perfumes, Cosmetics and Materials",
+    "heading": "Let discovery inform the story.",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "IFF's space rose experiment demonstrates that an orbital observation can inform an ingredient produced on Earth."
+      },
+      {
+        "type": "paragraph",
+        "text": "Dior, Guerlain or LVMH Research could explore fragrance behavior, formulation stability or a material process. Each proposal would need a scientific protocol and technical review. Filming could accompany the experiment where it would not interfere with the research."
+      }
+    ]
+  },
+  {
+    "id": "slide-11",
+    "index": "11",
+    "label": "Potential Lead Pilot",
+    "heading": "LOUIS VUITTON × SYMPHONY SPACE",
+    "blocks": [
+      {
+        "type": "subtitle",
+        "text": "The Art of Travel: The Final Frontier"
+      },
+      {
+        "type": "paragraph",
+        "text": "What does the Louis Vuitton trunk become when the destination is orbit?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Invite Louis Vuitton to reinterpret the exterior of a functioning Symphony module through the architecture and craftsmanship of its trunk."
+      },
+      {
+        "type": "paragraph",
+        "text": "Proposed, subject to Maison approval and technical feasibility: a three-month orbital mission, a film of the collaboration, and a separately crafted, museum-quality terrestrial twin for exhibition."
+      }
+    ]
+  },
+  {
+    "id": "slide-12",
+    "index": "12",
+    "label": "Delivery Process",
+    "heading": "Brief. Qualify. Integrate. Fly. Deliver.",
+    "blocks": [
+      {
+        "type": "list",
+        "items": [
+          "Brief: define the work, audience and research question, where relevant.",
+          "Qualify: assess feasibility, risk and platform fit.",
+          "Integrate: engineer, test and approve the payload.",
+          "Fly: execute the approved mission and capture plan.",
+          "Deliver: provide agreed films, images, records, data and analysis."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Creative approvals remain with the Maison under the agreed process. Symphony retains authority over flight safety and mission operations."
+      }
+    ]
+  },
+  {
+    "id": "slide-13",
+    "index": "13",
+    "label": "Rights and Confidentiality",
+    "heading": "Protect the work before it leaves Earth.",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Agree ownership and usage rights for footage, creative masters, background IP, research data and new inventions before integration begins. Define confidentiality, publication review and access controls for each project."
+      },
+      {
+        "type": "paragraph",
+        "text": "Symphony's proposed program framework includes segregated client data. Any security architecture, category exclusivity or reserved capacity must be specified and approved in the agreement."
+      }
+    ]
+  },
+  {
+    "id": "slide-14",
+    "index": "14",
+    "label": "Measurement",
+    "heading": "Define the return before launch.",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Agree project-specific measures rather than assume a financial return."
+      },
+      {
+        "type": "paragraph",
+        "text": "Creative: approved assets, qualified reach, engagement and cost per usable deliverable."
+      },
+      {
+        "type": "paragraph",
+        "text": "Commercial: client appointments, attributable inquiries and, where feasible, incremental contribution measured against comparison periods or cohorts."
+      },
+      {
+        "type": "paragraph",
+        "text": "Research: protocol completion, data quality, differences from ground controls and the next development decision."
+      },
+      {
+        "type": "paragraph",
+        "text": "Provenance: mission records and chain of custody; a price premium only when supported by an actual transaction."
+      }
+    ]
+  },
+  {
+    "id": "slide-15",
+    "index": "15",
+    "label": "Roadmap and Scope",
+    "heading": "Build the brief now. Match it to the right flight.",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Symphony's development roadmap targets:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "April 2028: Prelude-01.",
+          "December 2028: Adagio-Mini.",
+          "Q2 2029: Adagio."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Assess each brief, then select the platform and flight opportunity it needs. Agree the creative, engineering, filming and analysis work, including recovery if the project requires it."
+      },
+      {
+        "type": "paragraph",
+        "text": "Dates remain subject to development, qualification and availability. The partnership's flight assignment would follow feasibility review."
+      }
+    ]
+  },
+  {
+    "id": "slide-16",
+    "index": "16",
+    "label": "Invitation",
+    "heading": "What would your Maison create if Earth were no longer the only setting?",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Let us define the first project together."
+      },
+      {
+        "type": "paragraph",
+        "text": "Bring LVMH and the relevant Maison teams together with Symphony's creative and technical leads to explore the Louis Vuitton pilot and select further portfolio briefs."
+      },
+      {
+        "type": "paragraph",
+        "text": "Start with the work each Maison wants to make."
+      }
+    ]
+  }
+]
