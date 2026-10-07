@@ -2,17 +2,18 @@
 
 URL: https://lvmh-partnership.projectrhapsody.com
 
-In the DNS zone for **projectrhapsody.com** (no hyphen), add:
+Hosting provider: Firebase. GitHub stores source code only.
+Firebase project: project-rhapsody-eb1bc.
+Dedicated hosting site (pending creation): rhapsody-lvmh-partnership.
 
-| Type | Name / Host | Value / Points to | TTL |
-| --- | --- | --- | --- |
-| CNAME | lvmh-partnership | unclepauliees.github.io | 1 hour |
+Exact DNS records are pending Firebase authentication and custom-domain setup.
+Do not add the earlier proposed GitHub Pages CNAME; that configuration was removed.
 
-Do not include https:// or a path in the value. Do not enable forwarding.
-Do not change root-domain, www, or email records. If this host already has a
-record, inspect it before replacing anything.
+Configure only the lvmh-partnership host in the projectrhapsody.com zone (no
+hyphen). Do not enable forwarding or change root-domain, www, or email records.
+After DNS verification, Firebase provisions the HTTPS certificate.
 
-The custom hostname is registered in this repository's GitHub Pages settings.
-After DNS propagates, GitHub provisions HTTPS. Enable Enforce HTTPS once the
-certificate is available. The site is public, even though the deck is marked
-Confidential; noindex is not access control.
+Deploy only this site using:
+`firebase deploy --only hosting:rhapsody-lvmh-partnership --project project-rhapsody-eb1bc`
+
+The hosted presentation will be public; noindex is not access control.
