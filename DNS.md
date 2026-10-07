@@ -4,9 +4,15 @@ URL: https://lvmh-partnership.projectrhapsody.com
 
 Hosting provider: Firebase. GitHub stores source code only.
 Firebase project: project-rhapsody-eb1bc.
-Dedicated hosting site (pending creation): rhapsody-lvmh-partnership.
+Dedicated hosting site: rhapsody-lvmh-partnership.
+Live fallback URL: https://rhapsody-lvmh-partnership.web.app
 
-Exact DNS records are pending Firebase authentication and custom-domain setup.
+Firebase's custom-domain API confirmed this required record:
+
+| Type | Host | Points to | TTL |
+| --- | --- | --- | --- |
+| CNAME | lvmh-partnership | rhapsody-lvmh-partnership.web.app | 1 hour |
+
 Do not add the earlier proposed GitHub Pages CNAME; that configuration was removed.
 
 Configure only the lvmh-partnership host in the projectrhapsody.com zone (no

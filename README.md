@@ -1,6 +1,25 @@
 # Project Rhapsody for LVMH
 
-Separate local review deck. Nothing here is configured for deployment.
+Dedicated source repository for the LVMH partnership presentation. Firebase
+Hosting serves the website; GitHub Pages is not used.
+
+## Hosting
+
+- Live site: https://rhapsody-lvmh-partnership.web.app
+- Custom domain: https://lvmh-partnership.projectrhapsody.com (DNS pending)
+- Firebase project: `project-rhapsody-eb1bc`
+- Dedicated site: `rhapsody-lvmh-partnership`
+- DNS instructions: [DNS.md](DNS.md)
+
+Install with `npm ci`, then deploy only this site:
+
+```sh
+firebase deploy --only hosting:rhapsody-lvmh-partnership --project project-rhapsody-eb1bc
+```
+
+The predeploy hook builds the static export. This command does not deploy the
+main Rhapsody site or investor deck. Git pushes do not automatically deploy.
+The presentation is publicly accessible. Noindex does not provide access control.
 
 ## Preview
 
@@ -16,6 +35,8 @@ Approved source: `../output/LVMH-Partnership-Copy-v5.md`.
 
 ## Creative
 
-Slide 01 uses the supplied Project Rhapsody sizzle film, optimized for muted background playback without trimming. Its PDF cover uses a still at 00:07. Remaining sections retain FPO slots. Supply assets labeled 02 through 16, matching `lib/slides.json`. The inherited `StickyMediaSection` accepts `imgUrl`, `mobileImgUrl`, `videoUrl`, `webmUrl`, and `posterUrl`. The opening uses `ApertureHero`. No stock, generated or investor creative is included.
+Sections 01 through 10 use the supplied videos and images, with still posters
+for PDF output. Sections 11 through 16 retain placeholder artwork. Media and
+the current PDF are included in `public/`.
 
 The investor deck remains unchanged. Components are copied from it and adapted only for the LVMH copy, navigation, and placeholders. Dependencies currently use a complete local cache at `/tmp/rhapsody-lvmh-deps/node_modules` to avoid iCloud-offloaded files; `npm ci` can create a standalone install later.
